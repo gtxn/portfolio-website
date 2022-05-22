@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Comvision pong",
+    "badge": "Web",
+    "body": "Classic pong game, but you control the paddle's position with the index finger. This computer vision project used @mediapipe library to detect hand landmarks, and game logic was written in javascript. Visuals were rendered with html5 canvas component.",
+    "link": "https://gtxn.github.io/comvision_pong/"
+  },
+  {
+    "title": "live-signlanguage-translator",
+    "badge": "ML & Python",
+    "body": "This project is a live sign language translator. It uses machine learning to translate sign language into english. It uses python to train a model, and uses tensorflow to run the model. The model is trained on a dataset of sign language signs, and the dataset is generated from the sign language dataset of the sign language translator project.",
+    "link": "https://github.com/gtxn/live-signlanguage-translator/"
+  },
+  {
+    "title": "pokerchips",
+    "badge": "AWS & React",
+    "body": "This webapp hosted on AWS elastic beanstalk allows the counting of poker chips easily, for the times when you don't have coins or chips available.",
+    "link": "https://github.com/gtxn/pokerchips"
+  },
+  {
+    "title": "GuniCorn",
+    "badge": "HACKATHON",
+    "body": "We built an online donation system to make the process easier for both donors and recipients. Our project won 1st place at NUS Lifehack 2021. I built the front-end application as well as the backend Rekognition API.",
+    "link": "https://devpost.com/software/gunicorn?ref_content=user-portfolio&ref_feature=in_progress"
+  },
+  {
+    "title": "wordle-solver",
+    "badge": "Python",
+    "body": "This project makes use of information theory to solve wordle puzzles, utilising concepts based on the video by 3Blue1Brown",
+    "link": "https://github.com/gtxn/wordle-solver"
+  },
+  {
+    "title": "sudoku-solver",
+    "badge": "Pygame & Python",
+    "body": "This application solves sudoku puzzles using a backtracking recursive algorithm. The user interface is coded with Pygame to allow users to easily input puzzles.",
+    "link": "https://github.com/gtxn/sudoku-solver"
+  },
+  {
+    "title": "sorting-visualiser ",
+    "badge": "Html, Css, Javascript",
+    "body": "See how sorting algorithms work with interact website! Supports bubble sort, insertion sort, merge sort and quick sort. Built with pure html, bootstrap for formatting, and lots of flex box :D",
+    "link": "https://github.com/gtxn/sorting-visualiser"
+  },
+  {
+    "title": "Elderberry",
+    "badge": "HACKATHON",
+    "body": "This was our project at Huawei Spark Hackathon 2022 which won 2nd place. We built a smart home system for seniors and caregivers, and I build the React Native Caregiver app as well as the Swift Watch Application.",
+    "link": "https://github.com/nozama-sg/elderberry-full-stack/blob/master/README.md"
+  },
+  {
+    "title": "blackjack-q-learning",
+    "badge": "AWS & React",
+    "body": "Q learning (Reinforcement learning) with blackjack to see how much I can raise the odds of winning by...",
+    "link": "https://github.com/gtxn/blackjack-q-learning"
+  },
+  {
+    "title": "pokerchips",
+    "badge": "AWS & React",
+    "body": "This webapp hosted on AWS elastic beanstalk allows the counting of poker chips easily, for the times when you don't have coins or chips available.",
+    "link": "https://github.com/gtxn/pokerchips"
+  }
+]

@@ -1,0 +1,94 @@
+@font-face {
+  font-family: monoton;
+  src: local("monoton"),
+    url(../assets/fonts/Monoton-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 300;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-Light.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 300;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-LightItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 400;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 400;
+  font-style: italic;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-Italic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 500;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 500;
+  font-style: italic;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-MediumItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 600;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 600;
+  font-style: italic;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-BoldItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 700;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-ExtraBold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 700;
+  font-style: italic;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-ExtraBoldItalic.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 800;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-Black.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: rubik;
+  font-weight: 800;
+  font-style: italic;
+  src: local("rubik"),
+    url(../assets/fonts/rubik/Rubik-BlackItalic.ttf) format("truetype");
+}
