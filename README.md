@@ -2,7 +2,7 @@
 
 ## Try it out!
 
-Click [HERE](http://glendatxn.s3-website-us-east-1.amazonaws.com/) to view my website :)
+Click [HERE](https://glendatxn.vercel.app/) to view my website :)
 
 <br>
 
